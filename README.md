@@ -1,5 +1,5 @@
 ### Bem vindo ao meu perfil! 👋
-🌱 - Eu sou o Thiago, e estou começando na programação <br>
+🌱 - Eu sou o Thiago, e estou começando no mundo da programação <br>
 🔭 - Estudando Python no Alura, pelo programa edutech-pr <br>
 📫 - Pode me contatar no email thifrancoc@gmail.com
 
