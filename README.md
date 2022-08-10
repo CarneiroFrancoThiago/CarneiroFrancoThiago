@@ -1,6 +1,6 @@
 ### Bem vindo ao meu perfil! 👋
-🌱 - Eu sou o Thiago, e estou começando no mundo da programação <br>
-🔭 - Estudando Python no Alura, pelo programa edutech-pr <br>
+🌱 - Thiago Franco Carneiro <br> 
+⚡ - Cursando Engenharia Aeroespacial na UFSC
 📫 - Pode me contatar no email thifrancoc@gmail.com
 
 
