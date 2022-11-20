@@ -1,4 +1,4 @@
-### Bem vindo ao meu perfil! 👋
+### Bem vindo ao meu perfil!! 👋
 🌱 - Thiago Franco Carneiro <br> 
 ⚡ - Cursando Engenharia Aeroespacial na UFSC <br>
 📫 - Pode me contatar no email thifrancoc@gmail.com
