@@ -1,7 +1,4 @@
-### Bem vindo ao meu perfil!! 👋
-🌱 - Thiago Franco Carneiro <br> 
-⚡ - Cursando Engenharia Aeroespacial na UFSC <br>
-📫 - Pode me contatar no email thifrancoc@gmail.com
+corporal clegg
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarneiroFrancoThiago&show_icons=true&theme=tokyonight) 
