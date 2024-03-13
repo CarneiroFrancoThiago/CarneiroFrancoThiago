@@ -2,7 +2,6 @@ corporal clegg
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CarneiroFrancoThiago&show_icons=true&theme=tokyonight) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CarneiroFrancoThiago&theme=tokyonight)](https://github.com/CarneiroFrancoThiago/github-readme-stats)
 
 
 <img src="https://komarev.com/ghpvc/?username=CarneiroFrancoThiago&color=blue" alt="CarneiroFrancoThiago" />
